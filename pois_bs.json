@@ -1,0 +1,206 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:3857"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2104356.5142999999,
+          6184769.1231999993
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "ATTR1" : "test01"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2105347.0474000014,
+          6182757.2778000012
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "ATTR1" : "farm"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2102294.3027999997,
+          6183042.6855999976
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "ATTR1" : "building1"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2102311.0914999992,
+          6184696.3721999973
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "ATTR1" : "building2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2104006.7498000003,
+          6183521.1635000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "ATTR1" : "garden"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2103668.1777999997,
+          6182754.4796999991
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "ATTR1" : "mall"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2105229.5265000015,
+          6184964.9913000017
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "ATTR1" : "cinema"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2101961.3269999996,
+          6183834.5525000021
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "ATTR1" : "forest"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2103240.0659999996,
+          6184525.6871000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "ATTR1" : "lake"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2103452.7228000015,
+          6183420.4312999994
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "ATTR1" : "testing"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2102929.4750999995,
+          6183661.0693000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "ATTR1" : "museum"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2102159.9932000004,
+          6182315.175499998
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "ATTR1" : "bus stop"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2104448.8520999998,
+          6182404.7151999995
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "ATTR1" : "company"
+      }
+    }
+  ]
+}
