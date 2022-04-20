@@ -1,0 +1,56 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:3857"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2104356.5142999999,
+          6184769.1231999993
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "ATTR1" : "test01"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2105347.0474000014,
+          6182757.2778000012
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "ATTR1" : "farm"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2102294.3027999997,
+          6183042.6855999976
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "ATTR1" : "building1"
+      }
+    }
+  ]
+}
